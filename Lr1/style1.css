@@ -1,0 +1,42 @@
+h4.list1 {
+
+    margin: 6px;
+    display: inline-block;
+  }
+
+.last1{
+    margin: 5px;
+}
+    .list2{
+    margin: 6px;
+    height: 16px;
+    display: inline-block;
+    position: absolute;
+}
+    .last2{
+    display: inline-block;
+}
+.list3{
+    display: inline-block;
+}
+.Mylist3{
+    display: inline-block;
+    position: absolute;
+    margin: 20px;
+    padding-bottom: 25px;
+}
+.menu{
+    list-style: none;
+    display: inline-block;
+}
+.horizontalMenu{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+h1{
+    margin-bottom: 2px;
+}
+a{
+    text-decoration: none;
+}
+
